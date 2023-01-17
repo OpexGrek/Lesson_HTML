@@ -1,0 +1,26 @@
+/* шрифт всего основного текста */
+body {
+    font-size: 18px;
+}
+
+/* Размер шрифта 40 и выравнивание текста по центру */
+.font_40 {
+    font-size: 40px;
+    text-align: center;
+}
+
+/* Табуляция абзаца (красная строка) и выравнивание по ширине*/
+.align_tab {
+    text-align: justify;
+    text-indent: 40px;
+}
+
+/* Выравнивание по центру */
+.align_center {
+    text-align: center;
+}
+
+/* Сдвиг маркированного списка */
+.list_tab {
+    margin-left: 50px;
+}
